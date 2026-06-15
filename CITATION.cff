@@ -44,5 +44,10 @@ authors:
     affiliation: NVIDIA
   - name: "Cookbook Template contributors" # use the 'name' field to acknowledge organizations
     website: "https://github.com/ProjectPythia/cookbook-template/graphs/contributors"
+  - family-names: Rodgers Lober
+    given-names: Julia 
+    orcid: https://orcid.org/0000-0003-3004-0583
+    website: https://github.com/julober
+    affiliation: Boise State University
 title: "Cookbook Template"
 abstract: "A sample cookbook description."
